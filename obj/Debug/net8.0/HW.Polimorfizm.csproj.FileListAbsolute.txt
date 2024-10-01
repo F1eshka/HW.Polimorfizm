@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\bin\Debug\net8.0\HW.Polimorfizm.exe
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\bin\Debug\net8.0\HW.Polimorfizm.deps.json
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\bin\Debug\net8.0\HW.Polimorfizm.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\bin\Debug\net8.0\HW.Polimorfizm.dll
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\bin\Debug\net8.0\HW.Polimorfizm.pdb
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.dll
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\refint\HW.Polimorfizm.dll
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.pdb
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\HW.Polimorfizm.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Polimorfizm\HW.Polimorfizm\obj\Debug\net8.0\ref\HW.Polimorfizm.dll
